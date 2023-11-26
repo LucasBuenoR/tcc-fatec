@@ -1,4 +1,5 @@
 # Estudo de Soluções para Implementação de Big Data com uso de Apache Hadoop e Spark
+### Autores: Gabriel Valeriano De Souza e Lucas Bueno Rojas Barbosa
 
 **Resumo**.
 *O grande volume de dados gerados principalmente por empresas e 
