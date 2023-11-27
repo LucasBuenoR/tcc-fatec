@@ -25,4 +25,4 @@ Hadoop and Spark, leverages the efficient and effective manipulation of the coll
 data, obtaining a complete solution for processing Big Data. Large-scale data anal-
 ysis  stands  out  Among  the  benefits  of  the  Uber  case  study.  With  these  tools,  it  be-
 comes possible to analyze data in real time and use this information to improve the 
-user experience and optimize its services.*
+user experience and optimize its services.*  
